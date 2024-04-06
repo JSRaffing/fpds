@@ -1,5 +1,5 @@
 # Federal Procurement Data System
-### This project is demonstrating an exploratory analysis of two sets of data retrieved via api call. One set of data is from the year 2023 and the other is from the year 2024.
+### This project is demonstrating an exploratory analysis in Jupyter Notebook of two sets of data retrieved from the FPDS via api call. One set of data is from the "Fiscal Year" 2023 and the other is from the "Fiscal Year" 2024
 
 ## Libraries Used:
 ### Pandas
